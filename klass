@@ -1,0 +1,52 @@
+ <font family: "sans-serif"/>
+  <header style="background-color:#F8CECE;font-family:sans-serif">
+        <img src="https://i.ibb.co/m97BvXh/Untitled-1.jpg" height="50px"/>
+        <a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%B1%D1%8B" style="color:white;font-family:sans-serif">Магазин семян! </a>
+    </header><h1 style="text-align:center;background-color:#F8CECE;color:white;font size:30px;font-family:sans-serif">Огород</h1>
+    <h2 style="text-align:center;background-color:#F8CECE;color:white;font size:30px;font-family:sans-serif">Инет-магаз покупки семян</h2>
+    <p style="font-size:20px; color:#F8CECE"> Хотите купить семяна редких растений? </p>
+    <p style="font-size:20px; color:#F8CECE"> Хотите чтобы соседи вам завидовали? </p>
+    <h2 style="text-align:center;background-color:#F8CECE;color:white;font size:30px;font-family:sans-serif">ВЫ ПРИШЛИ ПРЯМО ПО АДРЕСУ!</h2>
+    <img src="https://avatars.mds.yandex.net/get-zen-narrative-slides/2108374/pub_5dadc4f88947770ae0e1ddb2_5dadc4f88947770ae0e1ddb3/w720";/>
+    <p style="font-size:20px; color:#F8CECE"> У нас широкий выбор семян и саженцев только для вас!
+    </p>
+    <p style="font-size:20px; color:#F8CECE"> Также, вы можете быстрее получить товары с БЕСПЛАТНОЙ ДОСТАВКОЙ по всей России! </p>
+    <h2 style="text-align:center;background-color:#F8CECE;color:white;font size:30px;font-family:sans-serif">Наш каталог!</h2>
+    <table style="font-size:20px;border:1px solid white">
+        <tr style="border:1px solid firebrick;font-family:sans-serif">
+           <td style="background-color:#F8CECE;color:white;">Порода</td>
+             <td style="background-color:#F8CECE;color:white;">В наличии/нет</td>
+            <td style="background-color:#F8CECE;color:white;">Цена</td>
+        </tr>
+        <tr style="border 1px solid firebrick;font-family:sans-serif">
+          <td style=";color:#F8CECE;">Пальчатокоренник пятнистый</td>
+             <td style=";color:#F8CECE;">В наличии</td>
+           <td style=";color:#F8CECE;">666 руб.</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-family:sans-serif">
+            <td style=";color:#F8CECE;">Лилия саранка</td>
+            <td style=";color:#F8CECE;">В наличии</td>
+             <td style=";color:#F8CECE;">750 руб.</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-family:sans-serif">
+            <td style=";color:#F8CECE;">Пион тонк-стый</td>
+             <td style=";color:#F8CECE;">В наличии</td>
+             <td style=";color:#F8CECE;">800 руб.</td>
+        </tr>
+    </table>
+     <img src="https://avatanplus.com/files/resources/mid/5b04226e0824016388267dd1.png";/>
+     <h2 style="text-align:center;background-color:#F8CECE;color:white;font size:30px;font-family:sans-serif">ПОЧЕМУ ТАК МАЛО РАСТЕНИЙ?</h2>
+     <p style="font-size:20px; color:#F8CECE"> Это всего лишь пробный сайт, купить здесь ничего не возможно, только мечтайте :D </p>
+      <p style="font-size:20px; color:#F8CECE">Даже если можно было купить что-либо, мне просто лень добавлять огромное количество строчек для несуществуещего каталога)</p>
+      <p style="font-size:20px; color:#F8CECE"> дадада, я очень ленивая жабка :></p>
+       <p style="font-size:20px; color:#F8CECE"> надеюсь, что вам понравилось сидеть на этом сайте
+       </p>
+       <footer style="background-color:#F8CECE;color:white;">
+        <p style="font-size:15px"> tt: @lil_zyova</p>
+        <p style="font-size:15px"> yt: @Lil Zyova</p>
+        <p>Тел.:666</p>
+    </footer>
+    
+
+    
+    
